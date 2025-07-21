@@ -1,0 +1,17 @@
+{
+    "restaurant-abc": {
+    "name": "ABC Family Restaurant",
+    "gmb_url": "https://www.google.com/search?q=ABC+Family+Restaurant+reviews",
+    "industry": "restaurant"
+    },
+    "salon-xyz": {
+    "name": "XYZ Hair Salon",
+    "gmb_url": "https://www.google.com/search?q=XYZ+Hair+Salon+reviews",
+    "industry": "salon"
+    },
+    "garage-123": {
+    "name": "123 Auto Repair",
+    "gmb_url": "https://www.google.com/search?q=123+Auto+Repair+reviews",
+    "industry": "automotive"
+    }
+}
