@@ -1,16 +1,22 @@
 {
     "restaurant-abc": {
     "name": "ABC Family Restaurant",
+    "description":"Breakfast, Lunch, Dinner, Brunch\nTable Service, Takeout\nHighchairs Available, Seating\n",
+    "image": "/assets/ABC.jpeg",
     "gmb_url": "https://www.google.com/search?q=ABC+Family+Restaurant+reviews",
     "industry": "restaurant"
     },
     "salon-xyz": {
     "name": "XYZ Hair Salon",
+    "description":"Bridal hair services, Chemical treatment, Haircut, Hair styling, Blowout, Color only, Cut and color",
+    "image": "/assets/xyz.jpeg",
     "gmb_url": "https://www.google.com/search?q=XYZ+Hair+Salon+reviews",
     "industry": "salon"
     },
     "garage-123": {
     "name": "123 Auto Repair",
+    "description":"Auto diagnosis or inspection, Auto fluids and filters maintenance, Auto repairs, Smog check, Auto maintenance, Oil changes, Routine automotive maintenance",
+    "image": "/assets/123.jpeg",
     "gmb_url": "https://www.google.com/search?q=123+Auto+Repair+reviews",
     "industry": "automotive"
     }
